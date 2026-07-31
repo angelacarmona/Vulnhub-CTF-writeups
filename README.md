@@ -13,3 +13,4 @@ The main goal of this repository is to:
 | Machine Name | Difficulty | OS | Key Techniques | Write-up |
 | :--- | :--- | :--- | :--- | :--- |
 | Empire Breakout | Easy | Linux | Enumeration, Reverse Shells, Capabilities (tar) | [Read Here](./Empire%20Breakout.md) |
+| *Coming soon* | *-* | *-* | *-* | *-* |
